@@ -1,5 +1,5 @@
 ---
-title: Interface
+title: Getting Started
 parent: Home
 layout: home
 nav_order: 2
