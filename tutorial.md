@@ -1,11 +1,11 @@
 ---
-title: Interface
+title: Overview
 parent: Home
 layout: home
 nav_order: 2
 ---
 
-# Interface Overview
+# Interface
 
 ![Main Odoo AI Studio workspace](https://openerp-hk-t.github.io/odoo-tool/images/ui_design_kit.png)
 
