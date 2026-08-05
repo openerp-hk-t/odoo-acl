@@ -31,7 +31,7 @@ nav_order: 3
 
 ## 3 Refine the page through chat
 
-8. Describe one change or one logically related group of changes in the chat box. (To avoid ambiguous, please select specific block and send it to chat)
+8. Describe one change or one logically related group of changes in the chat box. (To avoid ambiguous, please select the specific block and send it to chat)
 
 ![Select Block](https://openerp-hk-t.github.io/odoo-tool/images/chat_odoo.png)
 
