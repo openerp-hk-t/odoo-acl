@@ -41,9 +41,9 @@ nav_order: 3
 
 11. Continue iteratively until the page structure and behavior match the business expectation.
     
-13. At the same time, you can also modify the field manually through the configuration panel.
+12. At the same time, you can also modify the field manually through the configuration panel.
 
-![Annotation Mark](https://openerp-hk-t.github.io/odoo-tool/images/annotation_mark.png)
+![Mannual Configuration](https://openerp-hk-t.github.io/odoo-tool/images/mannul_change.png)
 
 ## 4 Add visual requirements
 
@@ -55,7 +55,7 @@ nav_order: 3
 
 14. Enter the requirement in the annotation card and click Save.
 
-![Annotation Mark](https://openerp-hk-t.github.io/odoo-tool/images/mannul_change.png)
+![Annotation Mark](https://openerp-hk-t.github.io/odoo-tool/images/annotation_mark.png)
 
 15. Repeat for every requirement that would be ambiguous in text alone.
 
