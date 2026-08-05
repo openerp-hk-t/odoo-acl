@@ -26,3 +26,6 @@ Odoo AI Studio is a collaborative requirement-definition workspace for Odoo cust
 
 
 > **Important:** The generated specification should be reviewed by an Odoo functional consultant or developer before implementation. Unless a separate deployment integration is enabled, confirming a prototype does not directly change a production Odoo database.
+
+
+![Copilot Screen](images/ui_design_kit.png)
