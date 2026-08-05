@@ -47,26 +47,26 @@ nav_order: 3
 
 ## 4 Add visual requirements
 
-12. Click Annotate to enter annotation mode.
+13. Click Annotate to enter annotation mode.
 
 ![Annotation](https://openerp-hk-t.github.io/odoo-tool/images/annotation_view.png)
 
-13. Click the exact interface element or location related to the requirement.
+14. Click the exact interface element or location related to the requirement.
 
-14. Enter the requirement in the annotation card and click Save.
+15. Enter the requirement in the annotation card and click Save.
 
 ![Annotation Mark](https://openerp-hk-t.github.io/odoo-tool/images/annotation_mark.png)
 
-15. Repeat for every requirement that would be ambiguous in text alone.
+16. Repeat for every requirement that would be ambiguous in text alone.
 
 ## 5 Generate and approve the specification
 
-16. Review all chat messages and annotations for contradictions or duplicate requests.
+17. Review all chat messages and annotations for contradictions or duplicate requests.
 
-17. Use Send to Chat or the specification-generation command available in your deployment.
+18. Use Send to Chat or the specification-generation command available in your deployment.
 
-18. Review the generated functional and technical requirements with the business owner and developer.
+19. Review the generated functional and technical requirements with the business owner and developer.
 
-19. Click Save Version to preserve the reviewed iteration.
+20. Click Save Version to preserve the reviewed iteration.
 
-20. Click Save as Confirmed only after stakeholders agree that the prototype and specification represent the intended customization.
+21. Click Save as Confirmed only after stakeholders agree that the prototype and specification represent the intended customization.
