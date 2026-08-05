@@ -1,6 +1,5 @@
 ---
-title: Home
-layout: home
+title: Get Started
 parent: Home
 nav_order: 2
 ---
