@@ -43,6 +43,8 @@ nav_order: 3
 
 12. Click Annotate to enter annotation mode.
 
+![Annotation](https://openerp-hk-t.github.io/odoo-tool/images/annotation_view.png)
+
 13. Click the exact interface element or location related to the requirement.
 
 14. Enter the requirement in the annotation card and click Save.
