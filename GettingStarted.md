@@ -6,8 +6,6 @@ nav_order: 3
 ---
 
 
-![Main Odoo AI Studio workspace](https://openerp-hk-t.github.io/odoo-tool/images/ui_design_kit.png)
-
 ## 1 Create a requirement session
 
 1. Click New conversation in the Requirement Session panel.
