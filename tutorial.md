@@ -1,19 +1,34 @@
 ---
-title: Get Started
+title: Interface
 parent: Home
 layout: home
 nav_order: 2
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Interface Overview
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+![Main Odoo AI Studio workspace](media/image1.png)
 
-More specifically, the created site:
+*Figure 1. Main Odoo AI Studio workspace and functional areas.*
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+| **No.** | **Area**                       | **Purpose**                                                                                                                              |
+|---------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 1       | Prototype command bar          | Creates a new prototype, enables annotation mode, changes language, saves versions, confirms the design, and opens confirmed prototypes. |
+| 2       | Requirement Session navigation | Creates and searches conversations and lets the user reopen a recent requirement session.                                                |
+| 3       | AI requirement chat            | Accepts natural-language requests and sends them to the AI agent to update or explain the current prototype.                             |
+| 4       | Prototype canvas               | Displays the generated Odoo form, list, tabs, records, buttons, workflow status, and other UI elements.                                  |
+| 5       | Annotation card                | Stores a requirement linked to a numbered marker placed on the prototype.                                                                |
+| 6       | Prototype Versions             | Shows the current draft and saved revisions for comparison, recovery, and confirmation.                                                  |
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## Top command bar
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+| **Control**               | **Typical use**                                                                                                       |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| New Prototype             | Start a separate prototype or requirement case.                                                                       |
+| Annotate                  | Enter annotation mode and place requirement markers on the UI.                                                        |
+| Language selector         | Switch the interface or working language where supported.                                                             |
+| Save Version              | Create a recoverable snapshot of the current prototype and requirements.                                              |
+| Save as Confirmed         | Mark the reviewed state as the approved design baseline.                                                              |
+| View Confirmed Prototypes | Open previously approved prototypes.                                                                                  |
+| Send to Chat              | Send selected interface context or annotations to the AI conversation for interpretation or specification generation. |
+
