@@ -49,6 +49,8 @@ nav_order: 3
 
 14. Enter the requirement in the annotation card and click Save.
 
+![Annotation Mark](https://openerp-hk-t.github.io/odoo-tool/images/annotation_mark.png)
+
 15. Repeat for every requirement that would be ambiguous in text alone.
 
 ## 5 Generate and approve the specification
