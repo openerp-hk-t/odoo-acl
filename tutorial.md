@@ -22,7 +22,7 @@ nav_order: 2
 
 ## Top command bar
 
-![Main Odoo AI Studio Menu](https://openerp-hk-t.github.io/odoo-tool/images/ui_design_kit_menu.png)
+![Studio Menu](https://openerp-hk-t.github.io/odoo-tool/images/ui_design_kit_menu.png)
 
 
 | **Control**               | **Typical use**                                                                                                       |
