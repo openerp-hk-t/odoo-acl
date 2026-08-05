@@ -7,7 +7,7 @@ nav_order: 2
 
 # Interface Overview
 
-![Main Odoo AI Studio workspace](media/image1.png)
+![Main Odoo AI Studio workspace](https://openerp-hk-t.github.io/odoo-tool/images/ui_design_kit.png)
 
 *Figure 1. Main Odoo AI Studio workspace and functional areas.*
 
