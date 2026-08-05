@@ -5,32 +5,57 @@ layout: home
 nav_order: 3
 ---
 
-# Interface Overview
 
 ![Main Odoo AI Studio workspace](https://openerp-hk-t.github.io/odoo-tool/images/ui_design_kit.png)
 
-*Figure 1. Main Odoo AI Studio workspace and functional areas.*
+## 1 Create a requirement session
 
-| **No.** | **Area**                       | **Purpose**                                                                                                                              |
-|---------|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 1       | Prototype command bar          | Creates a new prototype, enables annotation mode, changes language, saves versions, confirms the design, and opens confirmed prototypes. |
-| 2       | Requirement Session navigation | Creates and searches conversations and lets the user reopen a recent requirement session.                                                |
-| 3       | AI requirement chat            | Accepts natural-language requests and sends them to the AI agent to update or explain the current prototype.                             |
-| 4       | Prototype canvas               | Displays the generated Odoo form, list, tabs, records, buttons, workflow status, and other UI elements.                                  |
-| 5       | Annotation card                | Stores a requirement linked to a numbered marker placed on the prototype.                                                                |
-| 6       | Prototype Versions             | Shows the current draft and saved revisions for comparison, recovery, and confirmation.                                                  |
+1. Click New conversation in the Requirement Session panel.
 
-## Top command bar
+2. Give the session a meaningful name, such as “Sales Order Approval Revision” or “Teacher Record Form”.
 
-![Studio Menu](https://openerp-hk-t.github.io/odoo-tool/images/ui_design_kit_menu.png)
+3. Use one session for one coherent business requirement. Separate unrelated modules or processes into different sessions.
 
+## 2 Create and populate a prototype
 
-| **Control**               | **Typical use**                                                                                                       |
-|---------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| New Prototype             | Start a separate prototype or requirement case.                                                                       |
-| Annotate                  | Enter annotation mode and place requirement markers on the UI.                                                        |
-| Language selector         | Switch the interface or working language where supported.                                                             |
-| Save Version              | Create a recoverable snapshot of the current prototype and requirements.                                              |
-| Save as Confirmed         | Mark the reviewed state as the approved design baseline.                                                              |
-| View Confirmed Prototypes | Open previously approved prototypes.                                                                                  |
-| Send to Chat              | Send selected interface context or annotations to the AI conversation for interpretation or specification generation. |
+4. Click New Prototype.
+
+5. Choose or upload the Excel workbook through the import workflow provided by your installation.
+
+6. Allow the system to parse the workbook and generate the initial Odoo-style form and list views.
+
+7. Review field labels, data types, sample values, tabs, table columns, and relationships before requesting cosmetic changes.
+
+> **Recommended sequence:** Validate the data model first, then adjust layout and appearance. A polished layout built on an incorrect field structure usually creates avoidable rework.
+
+## 3 Refine the page through chat
+
+8. Describe one change or one logically related group of changes in the chat box.
+
+9. Send the message and wait for the prototype to refresh.
+
+10. Check the result on the canvas. Refer to the exact field, tab, button, model, or table when requesting corrections.
+
+11. Continue iteratively until the page structure and behavior match the business expectation.
+
+## 4 Add visual requirements
+
+12. Click Annotate to enter annotation mode.
+
+13. Click the exact interface element or location related to the requirement.
+
+14. Enter the requirement in the annotation card and click Save.
+
+15. Repeat for every requirement that would be ambiguous in text alone.
+
+## 5 Generate and approve the specification
+
+16. Review all chat messages and annotations for contradictions or duplicate requests.
+
+17. Use Send to Chat or the specification-generation command available in your deployment.
+
+18. Review the generated functional and technical requirements with the business owner and developer.
+
+19. Click Save Version to preserve the reviewed iteration.
+
+20. Click Save as Confirmed only after stakeholders agree that the prototype and specification represent the intended customization.
