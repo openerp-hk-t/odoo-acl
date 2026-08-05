@@ -10,13 +10,15 @@ nav_order: 3
 
 1. Click New conversation in the Requirement Session panel.
 
-![Session Start](https://openerp-hk-t.github.io/odoo-tool/images/gettingstarted.png)
+
 
 2. Upload the Excel workbook through the import button.
 
-![Review Fields](https://openerp-hk-t.github.io/odoo-tool/images/confirm_fields.png)
+![Session Start](https://openerp-hk-t.github.io/odoo-tool/images/gettingstarted.png)
 
 3. Review field labels, data types, sample values, tabs, table columns, and relationships before requesting cosmetic changes.
+   
+![Review Fields](https://openerp-hk-t.github.io/odoo-tool/images/confirm_fields.png)
 
 ## 2 Populate a prototype
 
@@ -24,11 +26,6 @@ nav_order: 3
 
 ![Select Views](https://openerp-hk-t.github.io/odoo-tool/images/field_view_type_confirm.png)
 
-6. Choose or upload the Excel workbook through the import workflow provided by your installation.
-
-7. Allow the system to parse the workbook and generate the initial Odoo-style form and list views.
-
-8. Review field labels, data types, sample values, tabs, table columns, and relationships before requesting cosmetic changes.
 
 > **Recommended sequence:** Validate the data model first, then adjust layout and appearance. A polished layout built on an incorrect field structure usually creates avoidable rework.
 
