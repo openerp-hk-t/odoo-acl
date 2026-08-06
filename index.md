@@ -29,3 +29,5 @@ Odoo AI Studio is a collaborative requirement-definition workspace for Odoo cust
 
 
 ![Copilot Screen](images/ui_design_kit.png)
+
+[⬇ Download the Excel Template ](https://openerp-hk-t.github.io/odoo-tool/template_ux.xlsx)
