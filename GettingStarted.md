@@ -63,10 +63,12 @@ nav_order: 3
 
 17. Review all chat messages and annotations for contradictions or duplicate requests.
 
-18. Use Send to Chat or the specification-generation command available in your deployment.
+![Specification](https://openerp-hk-t.github.io/odoo-tool/images/html_page.png)
 
-19. Review the generated functional and technical requirements with the business owner and developer.
+19. Use Send to Chat or the specification-generation command available in your deployment.
 
-20. Click Save Version to preserve the reviewed iteration.
+20. Review the generated functional and technical requirements with the business owner and developer.
 
-21. Click Save as Confirmed only after stakeholders agree that the prototype and specification represent the intended customization.
+21. Click Save Version to preserve the reviewed iteration.
+
+22. Click Save as Confirmed only after stakeholders agree that the prototype and specification represent the intended customization.
