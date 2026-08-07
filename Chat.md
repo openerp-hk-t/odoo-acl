@@ -160,7 +160,7 @@ The status bar remains in a fixed position and does not interfere with the main 
 
 ### Example Prompt
 
-> Add a status bar at the top of the page.
+> Add a "Pending Confirmation" status between Draft and Confirmed, then change Done to Delivered..
 
 ### Screenshots
 
@@ -224,8 +224,41 @@ The modification affects only the visual appearance of the column. It does not c
 
 ![demo15](https://openerp-hk-t.github.io/odoo-tool/images/detail_role_column_red.png)
 
+## 12. Rename a Field in a Detail Table
 
+### Description
 
+Rename a field in a detail table and update its displayed content. For example, change the **Role** field to **Identity** so that the field name better matches the current business semantics.
+
+This modification updates the field label, column header, and related display locations together, while keeping the column order, data type, and table structure unchanged.
+
+### Example Prompt
+
+> Rename the **Role** field in the **Detail** table to **Identity**.
+
+### Screenshot
+
+![demo16](https://openerp-hk-t.github.io/odoo-tool/images/detail_role_to_identity_1.png)
+
+![demo17](https://openerp-hk-t.github.io/odoo-tool/images/detail_role_to_identity_2.png)
+
+## 13. Change the Header Color of a Column
+
+### Description
+
+Change the color of a column header in a detail table, for example changing the **Identity** column header to green to highlight the column or mark a specific business status.
+
+This modification affects only the header color. It does not change the header text, field values, column width, or the overall table structure.
+
+### Example Prompt
+
+> Change the header color of the **Identity** column in the **Detail** table to green.
+
+### Screenshot
+
+![demo18](https://openerp-hk-t.github.io/odoo-tool/images/identity_header_green_1.png)
+
+![demo19](https://openerp-hk-t.github.io/odoo-tool/images/identity_header_green_2.png)
 
 ## Tips for Writing Effective Prompts
 
