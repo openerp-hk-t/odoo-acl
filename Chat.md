@@ -234,7 +234,7 @@ This modification updates the field label, column header, and related display lo
 
 ### Example Prompt
 
-> Rename the **Role** field in the **Detail** table to **Identity**.
+> Change the **Role** field in the **Detail** list to **Identity**.
 
 ### Screenshot
 
