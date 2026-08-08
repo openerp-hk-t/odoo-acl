@@ -6,7 +6,7 @@ layout: home
 
 # Introduction
 
-Odoo UI Design Kit is a collaborative requirement-definition workspace for Odoo customization projects. It converts an Excel-based data structure into an interactive Odoo-style prototype, lets business users modify the prototype through natural-language chat, and allows precise requirements to be attached directly to fields, tables, buttons, tabs, and other interface elements. The resulting context can then be transformed into a structured development specification for implementation and review.
+Odoo UI Kit is a collaborative requirement-definition workspace for Odoo customization projects. It converts an Excel-based data structure into an interactive Odoo-style prototype, lets business users modify the prototype through natural-language chat, and allows precise requirements to be attached directly to fields, tables, buttons, tabs, and other interface elements. The resulting context can then be transformed into a structured development specification for implementation and review.
 
 ## Intended users
 
