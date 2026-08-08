@@ -4,11 +4,11 @@ parent: Home
 layout: home
 nav_order: 4
 ---
-# Odoo AI Studio User Manual
+# Odoo UI Design Kit User Manual
 
 ## AI Chat Modification Features
 
-Odoo AI Studio allows users to modify form layouts and table components through natural-language instructions. Enter a request in the chat panel, review the generated change, and decide whether to accept it or refine the requirement.
+Odoo UI Design Kit allows users to modify form layouts and table components through natural-language instructions. Enter a request in the chat panel, review the generated change, and decide whether to accept it or refine the requirement.
 
 ---
 
