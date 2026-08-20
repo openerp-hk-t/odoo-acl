@@ -72,3 +72,6 @@ nav_order: 3
 21. Click Save Version to preserve the reviewed iteration.
 
 22. Click Save as Confirmed only after stakeholders agree that the prototype and specification represent the intended customization.
+
+[⬇ Download the Excel Template ](https://openerp-hk-t.github.io/odoo-tool/template_ux.xlsx)
+
